@@ -149,9 +149,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dbcfae66056f30418fe474594f7e175, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadingScreen: {fileID: 2023962917}
-  LoginScreen: {fileID: 1083184302}
-  HomeScreen: {fileID: 0}
+  loadingScreen: {fileID: 1083184302}
+  LoginScreen: {fileID: 5340123777024938209}
+  HomeScreen: {fileID: 2075374777}
   loading: 0
 --- !u!4 &428607944
 Transform:
@@ -164,8 +164,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 5340123777024938221}
   - {fileID: 2023962921}
+  - {fileID: 5340123777024938221}
   - {fileID: 2075374778}
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -621,7 +621,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1083184302}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -2.55}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2023962921}
@@ -1466,7 +1466,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!224 &2023962921
 RectTransform:
@@ -1481,7 +1481,7 @@ RectTransform:
   m_Children:
   - {fileID: 1083184303}
   m_Father: {fileID: 428607944}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3313,7 +3313,7 @@ RectTransform:
   - {fileID: 5340123778029477232}
   - {fileID: 5340123776806751942}
   m_Father: {fileID: 428607944}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

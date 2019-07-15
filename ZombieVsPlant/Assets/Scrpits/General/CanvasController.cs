@@ -37,6 +37,8 @@ public class CanvasController : Singleton<CanvasController>
 
     public void StartGame()
     {
+        Debug.Log("done");
+        loading = false;
         LoginScreen.SetActive(false);
         loadingScreen.SetActive(false);
         HomeScreen.SetActive(true);
@@ -50,9 +52,10 @@ public class CanvasController : Singleton<CanvasController>
 
     public void LoadScreen()
     {
+        Debug.Log("loadscreen");
         loading = true;
         loadingScreen.SetActive(true);
-        StartCoroutine(startGame());
+        StartCoroutine(startWait());
     }
 
     public void CallNotification(string Messenge, float time)
@@ -60,7 +63,7 @@ public class CanvasController : Singleton<CanvasController>
 
     }
 
-    IEnumerator startGame()
+    IEnumerator startWait()
     {
         yield return new WaitForSeconds(2f);
         StartGame();
