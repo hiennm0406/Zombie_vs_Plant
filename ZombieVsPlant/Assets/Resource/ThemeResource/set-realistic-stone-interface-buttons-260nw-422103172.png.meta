@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: c28402292e28d0a4d99cc76414f8705d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3276356158970576319
+    second: set-realistic-stone-interface-buttons-260nw-422103172_0
+  - first:
+      213: -8784391038613398433
+    second: set-realistic-stone-interface-buttons-260nw-422103172_1
+  - first:
+      213: -2447029106845308961
+    second: set-realistic-stone-interface-buttons-260nw-422103172_2
+  - first:
+      213: -7018501151011616515
+    second: set-realistic-stone-interface-buttons-260nw-422103172_3
+  - first:
+      213: -9178669342647317537
+    second: set-realistic-stone-interface-buttons-260nw-422103172_4
+  - first:
+      213: -5005615105526024734
+    second: set-realistic-stone-interface-buttons-260nw-422103172_5
+  - first:
+      213: -8871467579873805726
+    second: set-realistic-stone-interface-buttons-260nw-422103172_6
+  - first:
+      213: -5584820253741888079
+    second: set-realistic-stone-interface-buttons-260nw-422103172_7
+  - first:
+      213: 6936349071669352016
+    second: set-realistic-stone-interface-buttons-260nw-422103172_8
+  - first:
+      213: 5492508628997667047
+    second: set-realistic-stone-interface-buttons-260nw-422103172_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 169
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb6600fdca7b624c88a82188e70e051
+      internalID: 3276356158970576319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 185
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad4f80b4c4b7e468409455dad22c00
+      internalID: -8784391038613398433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 115
+        width: 41
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd06f4f046386614cb2037904d09290d
+      internalID: -2447029106845308961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 185
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd5b2704a89e747b37ab3368bc01b5
+      internalID: -7018501151011616515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 13
+        width: 90
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46ef9c3f862304ba6abe26cab484d8
+      internalID: -9178669342647317537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 100
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdd5a1433c2a84f95ed4949ad0b280
+      internalID: -5005615105526024734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 139
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed46c77b8bb8842b7bc6778df00553
+      internalID: -8871467579873805726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 13
+        width: 173
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d065a607cd025479b8a1aa60adee04
+      internalID: -5584820253741888079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 56
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ef22770e3ffd40aa7257bb0a4167d
+      internalID: 6936349071669352016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-realistic-stone-interface-buttons-260nw-422103172_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 14
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266dbd4da3e1ec4fac62a6d28b0d674
+      internalID: 5492508628997667047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9cda143895a5ad841a9adfa3fce1fc07
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
