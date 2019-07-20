@@ -7,14 +7,13 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class CanvasController : Singleton<CanvasController>
+public class CanvasController : MonoBehaviour
 {
 
     public delegate void eventTrigger();
     public static event eventTrigger eventCall;
     public GameObject loadingScreen;
     public GameObject LoginScreen;
-    public GameObject HomeScreen;
 
 
     public bool loading = false;
@@ -41,7 +40,6 @@ public class CanvasController : Singleton<CanvasController>
         loading = false;
         LoginScreen.SetActive(false);
         loadingScreen.SetActive(false);
-        HomeScreen.SetActive(true);
     }
 
     public static void triggerEvent()

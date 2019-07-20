@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlaceController : MonoBehaviour
+public class MouseController : MonoBehaviour
 {
     public GameObject target;
 

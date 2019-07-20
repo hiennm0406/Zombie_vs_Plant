@@ -8,7 +8,7 @@ using UnityEngine.Events;
 using System;
 using System.Text.RegularExpressions;
 
-public class AuthController : MonoBehaviour
+public class AuthController : AnimatedPanel
 {
 
     private const string emailPattern = @"^([0-9a-zA-Z]([\+\-_\.][0-9a-zA-Z]+)*)+@(([0-9a-zA-Z][-\w]*[0-9a-zA-Z]*\.)+[a-zA-Z0-9]{2,17})$";
@@ -341,7 +341,9 @@ public class AuthController : MonoBehaviour
             Debug.Log("Logined");
         }
         //GameController.RequestRefeshData();
+        
         canvas.LoadScreen();
+        GameGUI.instance.PushPanel("");
     }
 
 }
